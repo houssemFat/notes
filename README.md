@@ -65,10 +65,14 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 ## Magazines
 
 - [Offscreen](magazines/Offscreen)
+	- [Issue 12](magazines/Offscreen/12.md)
 
 ## Podcasts
 
 - [a16z](podcasts/a16z)
 - [Startup School Radio](podcasts/Startup School Radio)
+	- [Episode 24 - Sam Altman and Aarjav Trivedi](podcasts/Startup School Radio/24 - Sam Altman, Aarjav Trivedi.md)
+	- [Episode 35 - Paul Graham](podcasts/Startup School Radio/35 - Paul Graham.md)
 - [Talk Python to Me](podcasts/Talk Python to Me)
 - [The Lively Show](podcasts/The Lively Show)
+	- [Episode 18 - Intentions, Values, and Meaning with Noah Kagan](podcasts/The Lively Show/18.md)
